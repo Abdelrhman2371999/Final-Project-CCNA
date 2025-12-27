@@ -18,13 +18,13 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
-║                    🏆 NETWORK FORTRESS                    ║
-║             "Building Digital Strongholds"                ║
+║                    🏆 NETWORK FORTRESS                   ║
+║             "Building Digital Strongholds"               ║
 ╠══════════════════════════════════════════════════════════╣
-║  📊 Project Status:  ✅ COMPLETED WITH EXCELLENCE        ║
-║  🎓 Program:         Egypt Digital Pioneers Scholarship   ║
-║  ⭐ Skill Level:      Advanced CCNA & Security            ║
-║  🏗️ Complexity:      Enterprise-Grade Implementation      ║
+║  📊 Project Status:  ✅ COMPLETED WITH EXCELLENCE       ║
+║  🎓 Program:         Egypt Digital Pioneers Scholarship  ║
+║  ⭐ Skill Level:      Advanced CCNA & Security           ║
+║  🏗️ Complexity:      Enterprise-Grade Implementation     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -67,38 +67,38 @@ timeline
 ## 🏗️ **ARCHITECTURE BLUEPRINT**
 
 ```ascii
-┌─────────────────────────────────────────────────────────┐
-│                    🌐 NETWORK OVERVIEW                   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│   🔵 Internet                                          │
-│      │                                                 │
-│      ▼                                                 │
+┌────────────────────────────────────────────────────────┐
+│                    🌐 NETWORK OVERVIEW                 │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│   🔵 Internet                                         │
+│      │                                                │
+│      ▼                                                │
 │   ┌──────┐                                            │
 │   │ NAT  │───🛡️──▶ Firewall Zone                     │
 │   └──────┘                                            │
 │        │                                              │
 │        ▼                                              │
-│   ┌────────────────────────────────────────────┐     │
-│   │           🏢 ENTERPRISE CORE                │     │
-│   │  ┌────────┐    ┌────────┐    ┌────────┐   │     │
+│   ┌────────────────────────────────────────────┐      │
+│   │           🏢 ENTERPRISE CORE               │     │
+│   │  ┌────────┐    ┌────────┐    ┌────────┐    │     │
 │   │  │Router A│═══▶│Switch A│═══▶│ VLAN 10│   │     │
-│   │  └────────┘    └────────┘    └────────┘   │     │
-│   │      ║            ║              ║        │     │
-│   │  ┌────────┐    ┌────────┐    ┌────────┐   │     │
+│   │  └────────┘    └────────┘    └────────┘    │     │
+│   │      ║            ║              ║         │     │
+│   │  ┌────────┐    ┌────────┐    ┌────────┐    │     │
 │   │  │Router B│═══▶│Switch B│═══▶│ VLAN 20│   │     │
-│   │  └────────┘    └────────┘    └────────┘   │     │
-│   │      ║            ║              ║        │     │
-│   │  ┌────────┐    ┌────────┐    ┌────────┐   │     │
-│   │  │  WLC   │════│ Switch │════│  WLAN  │   │     │
-│   │  └────────┘    └────────┘    └────────┘   │     │
+│   │  └────────┘    └────────┘    └────────┘    │     │
+│   │      ║            ║              ║         │     │
+│   │  ┌────────┐    ┌────────┐    ┌────────┐    │     │
+│   │  │  WLC   │════│ Switch │════│  WLAN  │    │     │
+│   │  └────────┘    └────────┘    └────────┘    │     │
 │   └────────────────────────────────────────────┘     │
-│                                                         │
-│  🔐 Security Layers:                                    │
-│  • Perimeter Defense  • Internal Segmentation          │
-│  • Wireless Protection • Endpoint Security             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+│                                                      │
+│  🔐 Security Layers:                                │
+│  • Perimeter Defense  • Internal Segmentation       │
+│  • Wireless Protection • Endpoint Security          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
